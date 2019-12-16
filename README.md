@@ -1,6 +1,6 @@
 ![Halloween_hackathon](./src/components/img/accueil.png )
 
-[Halloween_hackathon](./src/components/img/reultats.png)
+![Halloween_hackathon](./src/components/img/reultats.png)
 
 Here the site on netifly:
 https://elated-mirzakhani-8f2b67.netlify.com/
