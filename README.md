@@ -1,4 +1,4 @@
-![Halloween_hackathon](.Halloween_hackathon/src/components/img/accueil.png )
+![Halloween_hackathon](./src/components/img/accueil.png )
 
 [Halloween_hackathon](.Halloween_hackathon/src/components/img/reultats.png)
 
